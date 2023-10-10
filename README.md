@@ -2,7 +2,7 @@
 Automatic Speech Recogniton Javanese Language, using TF-Keras.
 
 **Usage**
-1. Create Virtual Env if you want using this command
+1. Create Virtual Env if you want using this command:
 ```python
 python -m venv venv
 ```
