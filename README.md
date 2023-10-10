@@ -6,10 +6,14 @@ Automatic Speech Recogniton Javanese Language, using TF-Keras.
 ```python
 python -m venv venv
 ```
-2. Install Dependency
+2. Install Dependency, 
 ```python
 pip install tensorflow numpy
 ```
+
+i using `"tensorflow<2.11"` to activated GPU in my machine, you can install it as same as me or you can read the docs in tensorflow.org
+
+
 Download [Model](https://huggingface.co/johaness14/ASR-Javanese-Language), then download or clone this file: `stt-openslr-jawa-testing.ipynb`, then open. Set kernel to `venv`.
 
 Change this from Notebook:
