@@ -21,3 +21,6 @@ Change this from Notebook:
 MODEL_LOAD = '' # you can change this to load model.
 SOUND_PATH = '' # you can change this to predict it. 
 ```
+
+# Training
+You can training this model, in file `stt - openslr - jawa - training.ipynb`, and run it step by step.
